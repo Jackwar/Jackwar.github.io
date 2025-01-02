@@ -1,0 +1,8 @@
+﻿#Great OST
+Boneworks,Boneworks_cover.jpg,https://store.steampowered.com/app/823500/BONEWORKS/
+Ori and the Blind Forest,Ori_and_the_Blind_Forest_Logo.jpg,https://www.orithegame.com/blind-forest/
+Ori and the Will of the Wisps,Ori_and_the_Will_of_the_Wisps.jpg,https://www.orithegame.com/
+Nine Sols,ninesols-1705433790379.jpg,https://store.steampowered.com/app/1809540/Nine_Sols/
+Gravity Circuit,GravityCircuit.jpg,https://store.steampowered.com/app/858710/Gravity_Circuit/
+Sayonara Wild Hearts,SayonaraWildHearts.jpg,https://store.steampowered.com/app/1122720/Sayonara_Wild_Hearts/
+Celeste,Celeste_box_art_full.png,https://www.celestegame.com/
